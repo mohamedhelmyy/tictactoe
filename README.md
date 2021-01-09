@@ -1,4 +1,4 @@
-# Project#0 - Tic Tac Toe
+# Project#0 - Tic Tac Toe game
 
 You can play it in [here](https://unicar9.github.io/tictactoe/), Give it a go!
 
@@ -8,7 +8,7 @@ All comments and suggestions are welcome!
 
 ## Overview
 
-As required, I made this simple tic tac toe game as my first individual project. It's built with html, css and javascript/**jQuery**.
+As required, I made this simple tic tac toe game ahjhs my first individual project. It's built with html, css and javascript/**jQuery**.
 
 
 ## Features
